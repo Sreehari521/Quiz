@@ -17,7 +17,7 @@ let questions = [
     answer: "Banyan Tree",
     options: [
       "Neem Tree",
-      "Cocanut Tree",
+      "Cocanaut Tree",
       "Banyan Tree",
       "Bamboo"
     ]
@@ -36,7 +36,7 @@ let questions = [
     {
     numb: 4,
     question: "Which is the smallest continent?",
-    answer: "Austalia",
+    answer: "Australia",
     options: [
       "Africa",
       "Asia",
