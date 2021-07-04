@@ -17,7 +17,7 @@ let questions = [
     answer: "Banyan Tree",
     options: [
       "Neem Tree",
-      "Cocanaut Tree",
+      "Coconut Tree",
       "Banyan Tree",
       "Bamboo"
     ]
